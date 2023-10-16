@@ -33,7 +33,6 @@ let name = "Suraj Singh"
     console.log(names)  // without use script , it will give error i.e, ReferenceError
 }
 */
-
 // const private = 334;    this line gives error in strict mode --> SyntaxError: Unexpected strict mode reserved word
 
 console.log("No Error!")
