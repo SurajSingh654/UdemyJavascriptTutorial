@@ -115,6 +115,14 @@ function sumOfArray(total, element) {
 }
 console.log(arr.reduce(sumOfArray)); // Output : 6
 
+const numbers = [1,3,3,3,4,5,54,3]
+
+const sum = numbers.reduce((accumulator, currentValue) => {
+    return accumulator + currentValue;
+  }, 5);
+
+console.log(`Summation is: ${sum}`)
+
 
 
 // 16. find() method
