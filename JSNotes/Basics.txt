@@ -1,0 +1,5 @@
+Default Formatter --> Prettier
+Format on Save --> Enabled
+Todo Highlight
+NodeJS installation 
+Live Server installation (npm install live-server -g)
